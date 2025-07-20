@@ -1,0 +1,6 @@
+backend/firebase-auth.json
+
+.next/
+node_modules/
+
+*.glb
